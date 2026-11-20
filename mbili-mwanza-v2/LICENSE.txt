@@ -1,0 +1,4 @@
+GNU General Public License, version 2 or (at your option) any later version.
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+Custom theme/plugin code in this folder is GPL-2.0-or-later. Original parent/theme/platform dependencies retain their own supplied GPL notices. Reference screenshots are not redistributed.

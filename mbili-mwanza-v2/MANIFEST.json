@@ -1,0 +1,62 @@
+{
+  "version": "2.0.0",
+  "runtimeValidation": "Not performed; execution environment unavailable",
+  "files": {
+    "mbili-reference-child/style.css": {
+      "bytes": 17367,
+      "crc32": "6075d7f7"
+    },
+    "mbili-reference-child/functions.php": {
+      "bytes": 456,
+      "crc32": "c5b332aa"
+    },
+    "mbili-layout-v2/assets/interactions.js": {
+      "bytes": 1436,
+      "crc32": "d4b7cac2"
+    },
+    "mbili-layout-v2/mbili-layout-v2.php": {
+      "bytes": 10828,
+      "crc32": "8b54d0f5"
+    },
+    "mbili-layout-v2/widgets.php": {
+      "bytes": 5726,
+      "crc32": "b99f6b12"
+    },
+    "mbili-layout-v2/assets/portrait-placeholder.svg": {
+      "bytes": 955,
+      "crc32": "657dd1f9"
+    },
+    "mbili-layout-v2/assets/resources-placeholder.svg": {
+      "bytes": 714,
+      "crc32": "1a431b36"
+    },
+    "mbili-layout-v2/layouts.php": {
+      "bytes": 13978,
+      "crc32": "ed3e4b5b"
+    },
+    "README.md": {
+      "bytes": 5121,
+      "crc32": "2c046f5a"
+    },
+    "QA-CHECKLIST.md": {
+      "bytes": 2431,
+      "crc32": "6f583ba0"
+    },
+    "DESIGN-NOTES.md": {
+      "bytes": 1394,
+      "crc32": "7a2d0dab"
+    },
+    "LICENSE.txt": {
+      "bytes": 322,
+      "crc32": "1775e83f"
+    },
+    "preview/index.html": {
+      "bytes": 11532,
+      "crc32": "3b49b216"
+    },
+    "preview/preview.js": {
+      "bytes": 579,
+      "crc32": "f301b055"
+    }
+  }
+}
